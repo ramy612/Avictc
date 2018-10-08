@@ -1,33 +1,15 @@
 ## 运营见证APP下载安装配置说明
 
-### 下载地址
+### 1、下载地址
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+请在Safari中打开本页面。
 
-```markdown
-Syntax highlighted code block
+运营见证APP下载页面地址：[https://139.224.95.56:8444/download2](https://139.224.95.56:8444/download2)
 
-# Header 1
-## Header 2
-### Header 3
+### 2、服务器证书下载配置
 
-- Bulleted
-- List
+服务器证书下载安装完成之后，进入【设置】->【通用】->【关于本机】->【证书信任设置】开启【ios-ipa-server...】证书的信任！
 
-1. Numbered
-2. List
+### 3、运营见证APP证书配置
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramy612/Avictc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+运营见证APP下载完成之后进入【设置】->【通用】->【描述文件及设备管理】选择【AVIC Trust...】并点击【信任...】完成APP证书配置即可！
